@@ -2,4 +2,4 @@
 
 You can try this link https://66b068deb4a4a7172a.gradio.live/ and it is available for one week
 
-i ahve used gradio to deploy it
+i have used gradio to deploy it
